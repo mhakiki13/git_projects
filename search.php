@@ -2,7 +2,7 @@
 /**************************************************************************************
  * Main Search Page - search.php
  * Author: Your Name <email@something.com>
- * This file searches the database
+ * This file searches the database editeddddddddddddddddd
  **************************************************************************************/
  
 //Get variables from config.php to connect to mysql server
